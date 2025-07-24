@@ -6,8 +6,8 @@ services:
       VERSION: "10"
       USERNAME: "zilentvoid"
       PASSWORD: "zilentvoid"
-      RAM_SIZE: "10G"
-      CPU_CORES: "4"
+      RAM_SIZE: "16G"
+      CPU_CORES: "8"
       DISK_SIZE: "500G"
     devices:
       - /dev/kvm
